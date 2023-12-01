@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="title_signup_page">Yuk Bergabung Dicoding Story Apps</string>
+    <string name="name">Ngurah Bagus</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loading">Loading</string>
+    <string name="login_title">StoryApps</string>
+    <string name="login_p">selamat datang di story apps</string>
+    <string name="storyPhoto">story photo</string>
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="createdAt">Minggu, 08 agustus 2023</string>
+    <string name="addButton">Tambah</string>
+    <string name="logout">Logout</string>
+    <string name="deskripsi_hint">Masukan deskripsi</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_img">gambar tidak ada</string>
+</resources>
